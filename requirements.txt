@@ -1,0 +1,101 @@
+autograd==1.6.2
+autograd-gamma==0.5.0
+Bottleneck @ file:///work/ci_py311/bottleneck_1676827011612/work
+Brotli @ file:///work/ci_py311/brotli-split_1676830125088/work
+causal-conv1d==1.2.2.post1
+certifi @ file:///croot/certifi_1700501669400/work/certifi
+cffi @ file:///croot/cffi_1700254295673/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+contourpy==1.2.0
+cryptography @ file:///croot/cryptography_1702070282333/work
+cycler==0.12.1
+dgl==1.1.3
+docopt==0.6.2
+ecos==2.0.12
+einops==0.7.0
+et-xmlfile==1.1.0
+filelock @ file:///croot/filelock_1700591183607/work
+fonttools==4.47.0
+formulaic==1.0.1
+fsspec==2023.12.2
+ftpretty==0.4.0
+future==0.18.3
+fvcore==0.1.5.post20221221
+gensim==4.3.2
+gmpy2 @ file:///work/ci_py311/gmpy2_1676839849213/work
+goatools==1.4.6
+h5py @ file:///croot/h5py_1691589708553/work
+huggingface-hub==0.20.2
+idna @ file:///work/ci_py311/idna_1676822698822/work
+interface-meta==1.3.0
+iopath==0.1.10
+Jinja2 @ file:///work/ci_py311/jinja2_1676823587943/work
+joblib==1.3.2
+kiwisolver==1.4.5
+lifelines==0.28.0
+mamba-ssm==1.2.0.post1
+markdown-it-py==3.0.0
+MarkupSafe @ file:///croot/markupsafe_1704205993651/work
+matplotlib==3.8.2
+mdurl==0.1.2
+mkl-fft @ file:///croot/mkl_fft_1695058164594/work
+mkl-random @ file:///croot/mkl_random_1695059800811/work
+mkl-service==2.4.0
+mpmath @ file:///croot/mpmath_1690848262763/work
+networkx @ file:///croot/networkx_1690561992265/work
+ninja==1.11.1.1
+numexpr @ file:///croot/numexpr_1696515281613/work
+numpy @ file:///croot/numpy_and_numpy_base_1704311704800/work/dist/numpy-1.26.3-cp311-cp311-linux_x86_64.whl#sha256=10a078151ecec16bafb535f7487635217625fa06536dec8509e514648c78d626
+nystrom-attention==0.0.11
+openpyxl==3.1.2
+osqp==0.6.3
+packaging==23.2
+pandas @ file:///croot/pandas_1702317985682/work/dist/pandas-2.1.4-cp311-cp311-linux_x86_64.whl#sha256=a15c481f210e34ff91dac4944a5f8f0fe38ff2c3afa7c45ea621ff460d6f9b57
+patsy==0.5.6
+Pillow @ file:///croot/pillow_1696580024257/work
+plotly==5.22.0
+portalocker==2.8.2
+protobuf==3.20.3
+psutil==5.9.7
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydot==2.0.0
+Pygments==2.18.0
+pyOpenSSL @ file:///croot/pyopenssl_1690223430423/work
+pyparsing==3.1.1
+PySocks @ file:///work/ci_py311/pysocks_1676822712504/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz @ file:///croot/pytz_1695131579487/work
+PyYAML @ file:///croot/pyyaml_1698096049011/work
+qdldl==0.1.7.post0
+regex==2024.5.10
+requests @ file:///croot/requests_1690400202158/work
+rich==13.7.1
+safetensors==0.4.1
+scikit-learn @ file:///croot/scikit-learn_1684954695550/work
+scikit-survival==0.22.2
+scipy @ file:///croot/scipy_1701295040508/work/dist/scipy-1.11.4-cp311-cp311-linux_x86_64.whl#sha256=4a1942ba48a330f141b1056df960d77f9be4cee3e2d999d754e791da201edffd
+seaborn==0.13.2
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+smart-open==7.0.4
+statsmodels==0.14.2
+sympy @ file:///croot/sympy_1701397643339/work
+tabulate==0.9.0
+tenacity==8.3.0
+tensorboardX @ file:///tmp/build/80754af9/tensorboardx_1621440489103/work
+termcolor==2.4.0
+threadpoolctl==3.2.0
+timm==0.9.12
+tokenizers==0.19.1
+torch==2.1.2
+torch_geometric==2.4.0
+torchaudio==2.1.2
+torchvision==0.16.2
+tqdm==4.66.1
+transformers==4.40.2
+triton==2.1.0
+typing_extensions @ file:///croot/typing_extensions_1690297465030/work
+tzdata @ file:///croot/python-tzdata_1690578112552/work
+urllib3 @ file:///croot/urllib3_1698257533958/work
+wrapt==1.16.0
+XlsxWriter==3.2.0
+yacs==0.1.8
