@@ -281,9 +281,6 @@ class NystromAttention(nn.Module):
         return out
 
 
-# transformer
-
-
 class PreNorm(nn.Module):
     def __init__(self, dim, fn):
         super().__init__()

@@ -109,7 +109,6 @@ class SAMamba(nn.Module):
             sig_networks.append(nn.Sequential(*fc_omic))
         self.genomics_fc = nn.ModuleList(sig_networks)
 
-        # Pathomics Transformer Decoder
         # Encoder
         self.genomics_encoder = nn.ModuleList([
                             Mamba(d_model=256, # Model dimension d_model
@@ -128,7 +127,6 @@ class SAMamba(nn.Module):
                     for i in range(1)])
 
 
-        # Pathomics Transformer
         # Encoder
         self.pathomics_encoder = nn.ModuleList([
                             Mamba(d_model=256, # Model dimension d_model
