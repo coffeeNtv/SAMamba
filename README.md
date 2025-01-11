@@ -1,6 +1,6 @@
-# SAMamba: Integrating State Space Model for Enhanced Multi-modal Survival Analysis (BIBM 2024)
+# SAMamba: Integrating State Space Model for Enhanced Multi-modal Survival Analysis
 
-Thank you for your attention of our work. This is the codebase for Survival Analysis Mamba (SAMamba). Please feel free to raise any question.
+Thank you for your attention of our work. This is the codebase for Survival Analysis Mamba (SAMamba).
 
 
 
@@ -19,9 +19,9 @@ scikit-survival==0.22.2
 mamba-ssm==1.2.0.post1
 ``````
 
-We also provide a requirement.txt file for you to track the version of each package :)  (It is quite redundant though)
+We also provide a requirement.txt file for you to track the version of each package.
 
-You could also build the environment from [CMAT](https://github.com/FT-ZHOU-ZZZ/CMTA/tree/main) and [MOTcat](https://github.com/Innse/MOTCat/tree/main). With two additional packages from [Mamba](https://github.com/state-spaces/mamba):
+You could also build the environment from [CMAT](https://github.com/FT-ZHOU-ZZZ/CMTA/tree/main) and [MOTcat](https://github.com/Innse/MOTCat/tree/main), with two additional packages from [Mamba](https://github.com/state-spaces/mamba):
 
 ``````
 pip install mamba-ssm
@@ -133,6 +133,7 @@ Please feel free to cite us if our work could be helpful for your study. Thank y
   author={Zhang, Wei and Chen, Tong and Xu, Wenxin and Li, Xinyue},
   booktitle={2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
   year={2024},
+  pages={1334-1341},
   organization={IEEE}
 }
 ```
