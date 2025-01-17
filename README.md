@@ -1,6 +1,6 @@
 # SAMamba: Integrating State Space Model for Enhanced Multi-modal Survival Analysis
 
-Thank you for your attention of our work. This is the codebase for Survival Analysis Mamba (SAMamba).
+Thank you for your attention of our work. This is the codebase for Survival Analysis Mamba (SAMamba) [[Paper link](https://ieeexplore.ieee.org/document/10822595)].
 
 
 
